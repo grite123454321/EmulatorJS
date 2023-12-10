@@ -1,5 +1,5 @@
   services:
   - type: web
-    name: iridium
+    name: emulator
     env: docker
     plan: free
